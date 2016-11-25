@@ -1,0 +1,18 @@
+
+NET "opcode_in<0>" LOC = "B18";
+NET "opcode_in<1>" LOC = "D18";
+NET "opcode_in<2>" LOC = "E18";
+NET "opcode_in<3>" LOC = "H13";
+
+NET "clk" LOC = "B8";
+
+NET "VGA_RED<0>" LOC = "R9";
+NET "VGA_RED<1>" LOC = "T8";
+NET "VGA_RED<2>" LOC = "R8";
+NET "VGA_GREEN<0>" LOC = "N8";
+NET "VGA_GREEN<1>" LOC = "P8";
+NET "VGA_GREEN<2>" LOC = "P6";
+NET "VGA_BLUE<0>" LOC = "U5";
+NET "VGA_BLUE<1>" LOC = "U4";
+NET "VGA_HS" LOC = "T4";
+NET "VGA_VS" LOC = "U3";
